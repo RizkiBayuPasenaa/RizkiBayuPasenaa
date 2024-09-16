@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rizki Bayu Pasena! 👋
 
 ## 🚀 About Me
 I'm a **frontend developer** passionate about building impactful web applications using modern technologies. I love exploring new tools and frameworks to create beautiful and efficient user experiences.
