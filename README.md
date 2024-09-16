@@ -20,21 +20,15 @@ I'm a **frontend developer** passionate about building impactful web application
 - REST API, Webpack, Vite
 - Tailwind CSS, CSS Grid
 
-## 🌟 My Recent Projects
-
-- **[Project 1 Name](#)** - Short project description.
-- **[Project 2 Name](#)** - Short project description.
-
 ## 💡 My Learning Journey
 I'm currently learning **Dart, Flutter**, and improving my understanding of **unit testing** in React using Vitest. I enjoy deep-diving into new frameworks and concepts, and applying them to my projects.
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](#)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [
+- Email: [rizkybayupasena18@gmail.com](mailto:rizkybayupasena18@gmail.com)
 
 ## 🌍 Fun Facts
 - I’m fascinated by web technologies and love to work on **frontend architecture**.
-- In my free time, I enjoy **learning algorithms** and exploring new trends in **software engineering**.
 
 ---
 
