@@ -18,7 +18,7 @@ I'm a **frontend developer** passionate about building impactful web application
 ## 🛠️ Tools & Frameworks
 - React, Vue.js, TypeScript
 - REST API, Webpack, Vite
-- Tailwind CSS, CSS Grid
+- Tailwind CSS,
 
 ## 💡 My Learning Journey
 I'm currently learning **Dart, Flutter**, and improving my understanding of **unit testing** in React using Vitest. I enjoy deep-diving into new frameworks and concepts, and applying them to my projects.
